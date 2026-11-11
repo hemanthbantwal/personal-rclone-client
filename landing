@@ -1,0 +1,8 @@
+Personal rclone client
+This is a private Google OAuth client used by one person, its owner, with rclone, the open-source file copy tool.
+
+It reads files from a single folder in the owner's own Google Drive, with read-only access, and copies them to the owner's own computer. It can't change, upload or delete anything in Google Drive.
+
+It isn't offered to anyone else, and there is nothing to sign up for.
+
+Privacy policy
